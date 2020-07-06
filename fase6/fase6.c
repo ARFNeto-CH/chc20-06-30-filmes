@@ -9,7 +9,7 @@ typedef struct
 	// todo programa em C
 	// int argc, char** argc
 	int     T; // total de filmes
-	char** filme; // cada um
+	char**  filme; // cada um
 	// mas vamos manter um registro da capacidade maxima
 	// para nao ficar criando um por um mas sim bloco a
 	// bloco
